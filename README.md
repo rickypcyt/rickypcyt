@@ -1,6 +1,6 @@
 # Hi there, I'm Ricky.
 
-👨‍💻 Engineering student in Spain 🇪🇸 | 🇪🇨 Ecuadorian native
+👨‍💻 | 🇪🇨 Ecuadorian Engineering student in Spain 🇪🇸 
 
 ### About Me
 
