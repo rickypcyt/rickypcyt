@@ -2,6 +2,8 @@
 
 👨‍💻 Ecuadorian Engineering student in Spain
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickypcyt&layout=compact)
+
 ### About Me
 
 - 🌱 Always learning
