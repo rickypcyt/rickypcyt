@@ -1,5 +1,3 @@
-# Hi there, I'm Ricky.
-
 Ecuadorian Engineering student in Spain 👨‍💻
 
 ### About Me
