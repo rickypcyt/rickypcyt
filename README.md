@@ -6,8 +6,6 @@ Ecuadorian Engineering student in Spain 👨‍💻
 - Creating random projects for fun.
 - Lover of minimalist/futuritic design.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickypcyt&layout=compact)
-
 ### Contact
 
 Connect with me!
