@@ -1,16 +1,10 @@
-Ecuadorian Engineering student in Spain 👨‍💻
+Ecuadorian Engineering student in Spain.
 
-### About Me
-
-- Always learning.
-- Creating random projects for fun.
-- Lover of minimalist/futuritic design.
-
-### Contact
+I like to create random/fun projects and I'm into the minimalist/futuritic aesthetic.
 
 Connect with me!
 
-[LinkedIn](link_to_your_profile)
-[Email](your@email.com)
+[LinkedIn](https://www.linkedin.com/in/ricardo-perez-b11872242)
+[Email](mailto:rickypcyt@gmail.com)
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile!
