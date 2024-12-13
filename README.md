@@ -8,7 +8,17 @@ I like to create random/fun projects and I love minimalist/futuristic aesthetics
 
 ## 🌐 Web Dev
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bun,md,redux,sqlite,threejs,vercel,vite)](https://skillicons.dev) 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)  
+[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)  
+[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)  
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)  
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)  
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)  
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)  
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 
 ## ⚙️ Tools/Workflow
 
