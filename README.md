@@ -22,11 +22,20 @@ I like to create random/fun projects and I love minimalist/futuristic aesthetics
 
 ## ⚙️ Tools/Workflow
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,vim,vscode)](https://skillicons.dev)  
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/) 
+[![Arch Linux](https://skillicons.dev/icons?i=arch)](https://archlinux.org/) 
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/) 
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
+[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/) 
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ## 🖥️ Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,postman,py)](https://skillicons.dev) 
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) 
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/) 
+[![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org/) 
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) 
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 
 ## Connect with me!
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ricardo-perez-b11872242) 
