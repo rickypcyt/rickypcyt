@@ -1,6 +1,6 @@
 ![Un GIF divertido](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBtbmR6bnFkcGJrcGkzazgwN3k0eHE4c25jeTdseHpmcDFmaTl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eFvs5iE6a6ntVIRaEN/giphy.gif)
 
-From Ecuador, studying CS in Spain.
+From Ecuador, studying Software Engineering in Spain.
 
 I like to create random/fun projects and I love minimalist/futuristic aesthetics.
 
