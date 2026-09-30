@@ -1,81 +1,62 @@
-![Un GIF divertido](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBtbmR6bnFkcGJrcGkzazgwN3k0eHE4c25jeTdseHpmcDFmaTl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eFvs5iE6a6ntVIRaEN/giphy.gif)
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBtbmR6bnFkcGJrcGkzazgwN3k0eHE4c25jeTdseHpmcDFmaTl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eFvs5iE6a6ntVIRaEN/giphy.gif" width="520" alt="Fun GIF">
+</p>
 
-Software Engineering student in Spain 🇪🇸  
-Focused on systems, graphics, and full-stack development.
+<p align="center">
+  Software Engineering student in Spain 🇪🇸<br>
+  I like building things close to the metal and things people actually click on.
+</p>
 
-I build software across different layers of abstraction:
-from low-level tools and systems (C++, Rust) to modern web applications (React / Next.js).
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-perez-b11872242"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rickypcyt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## Skills
+### About
 
-**Systems / Low-level**
-- C++ (graphics, performance-focused projects)
-- Rust (CLI tools, systems programming)
-- C (OS / low-level experiments)
-- Bash (automation)
-- Linux (Arch + Hyprland)
+I work across layers: C++ and Rust when I want control over performance and memory, React and Next.js when I want to ship something usable fast. Most of my projects come from a problem I had myself, like tracking my classes, studying with the right music, or syncing Git without breaking things.
 
-**Web / Backend**
-- TypeScript / JavaScript
-- React / Next.js
-- Node.js / Express
-- Python (scripts, utilities)
-- PostgreSQL (Supabase)
+I run Arch with Hyprland, and I automate whatever I do twice.
+
+---
+
+### Stack
+
+**Systems**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,rust,c,bash,linux,arch,cmake" alt="systems stack">
+
+**Web and backend**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,py,postgres,supabase,tailwind" alt="web stack">
 
 **Tools**
-- Git
-- CMake
-- Tailwind CSS
+<br>
+<img src="https://skillicons.dev/icons?i=git" alt="tools">
 
 ---
 
-## Projects
+### Things I've built
 
-### Unitracker
-Academic tracking system for courses, grades, and progress.  
-Next.js · TypeScript · Supabase  
-→ Full-stack architecture with database integration
-
----
-
-### Macroview
-Macroeconomic data visualization dashboard with interactive charts.  
-React · D3.js · FastAPI · Python  
-→ Data-driven frontend with API backend
+| Project | What it is | Stack |
+|---|---|---|
+| **[Unitracker](https://github.com/rickypcyt/unitracker)** | Tracks courses, grades, and progress through a semester | Next.js, TypeScript, Supabase |
+| **[Macroview](https://github.com/rickypcyt/macroview)** | Interactive dashboard for macroeconomic data | React, D3.js, FastAPI, Python |
+| **[SyncGit](https://github.com/rickypcyt/syncgit)** | CLI that makes everyday Git workflows simpler and safer | Rust |
+| **[Music4Study](https://github.com/rickypcyt/music4study)** | Generates study playlists based on focus and taste | Next.js, Spotify API |
+| **Internal Audio WAV Recorder** | Records Windows system audio to WAV | C++, Windows API |
 
 ---
 
-### SyncGit
-Rust CLI tool to simplify Git workflows and improve safety.  
-Rust · Git · CLI  
-→ Focus on usability and workflow optimization
+### Numbers
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rickypcyt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickypcyt&theme=vue-dark&hide_border=true&layout=compact" alt="Top languages">
+</p>
 
-### Music4Study
-Study playlist generator based on focus and preferences.  
-Next.js · Spotify API  
-→ API integration + personalization logic
-
----
-
-### Internal Audio WAV Recorder
-Windows tool for recording system audio.  
-C++ · Windows API  
-→ Low-level audio capture utility
-
----
-
-## Links
-
-LinkedIn: https://www.linkedin.com/in/ricardo-perez-b11872242  
-Email: rickypcyt@gmail.com
-
-![rickypcyt's Stats](https://github-readme-stats.vercel.app/api?username=rickypcyt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![rickypcyt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rickypcyt&theme=vue-dark&hide_border=true)
-
-![rickypcyt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickypcyt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickypcyt&theme=vue-dark&hide_border=true" alt="Streak">
+</p>
