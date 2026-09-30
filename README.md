@@ -53,10 +53,11 @@ I run Arch with Hyprland, and I automate whatever I do twice.
 ### Numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rickypcyt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickypcyt&theme=vue-dark&hide_border=true&layout=compact" alt="Top languages">
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rickypcyt&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rickypcyt&theme=dark&hide_border=true" alt="Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickypcyt&theme=vue-dark&hide_border=true" alt="Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickypcyt&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages">
 </p>
